@@ -1,0 +1,15 @@
+{
+  "name": "nit_task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/NikolayKatsai/NIT_Task_2"
+  },
+  "author": "Nik",
+  "license": "ISC"
+}
